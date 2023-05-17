@@ -1,0 +1,8 @@
+6 https://www.youtube.com/watch?v=T7AxM7Vqvaw Jenny's_lecture_dbms
+4 https://www.youtube.com/watch?v=WbN4hgQ-vl4 Dbms_intro
+9 https://www.youtube.com/watch?v=3EJlovevfcA Gate_smashers_dbms
+10 https://www.youtube.com/watch?v=6Iu45VZGQDk Neso_Academy_dbms
+5 https://www.youtube.com/watch?v=wR0jg0eQsZA DBMS_tutorial
+
+
+

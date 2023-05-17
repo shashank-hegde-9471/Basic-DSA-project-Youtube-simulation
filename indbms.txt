@@ -1,0 +1,5 @@
+0 0 https://www.youtube.com/watch?v=T7AxM7Vqvaw Jenny's_lecture_dbms NULL
+0 0 https://www.youtube.com/watch?v=WbN4hgQ-vl4 Dbms_intro NULL
+0 0 https://www.youtube.com/watch?v=3EJlovevfcA Gate_smashers_dbms NULL
+0 0 https://www.youtube.com/watch?v=6Iu45VZGQDk Neso_Academy_dbms NULL
+0 0 https://www.youtube.com/watch?v=wR0jg0eQsZA DBMS_tutorial NULL
